@@ -10,7 +10,7 @@
 ' 6. Lcase(str) - convert to uppercase
 ' 7. Len(str) - convert to uppercase
 ' 8. replace(str) - convert to uppercase
-
+'=============================================================
 
 ' ============================================================
 
